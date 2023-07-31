@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "pattern27",
+      "request": "launch",
+      "mainClass": "pattern27",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "pattern32",
+      "request": "launch",
+      "mainClass": "pattern32",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "c2",
+      "request": "launch",
+      "mainClass": "classwork.c2",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "c1",
+      "request": "launch",
+      "mainClass": "classwork.c1",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "twodarray",
+      "request": "launch",
+      "mainClass": "twodarray",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "challengepythagorus",
+      "request": "launch",
+      "mainClass": "challengepythagorus",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "fibonacciseries",
+      "request": "launch",
+      "mainClass": "fibonacciseries",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "reversestring",
+      "request": "launch",
+      "mainClass": "reversestring",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "removesplcharacters",
+      "request": "launch",
+      "mainClass": "removesplcharacters",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "type": "java",
+      "name": "stack",
+      "request": "launch",
+      "mainClass": "stack",
+      "projectName": "JAVA PRACTICE_130efba0"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/JAVA PRACTICE",
+      "program": "d:/JAVA PRACTICE/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
