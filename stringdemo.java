@@ -42,3 +42,5 @@ public class stringdemo {
     }
     
 }
+//we use comparetoignorecase for ignoring uppercase and lowercase of letters
+//we use compareTo for not ignoring
